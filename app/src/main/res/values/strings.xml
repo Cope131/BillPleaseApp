@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amount">Amount</string>
+    <string name="dollars">Enter amount (SGD)</string>
+    <string name="num_of_pax">Num of pax</string>
+    <string name="number">Enter number</string>
+
+    <string name="svs">SVS</string>
+    <string name="gst">GST</string>
+
+    <string name="discount">Discount (%)</string>
+    <string name="percentage">Enter discount</string>
+    <string name="eachPays">Each Pays:</string>
+    <string name="totalBill">Total Bill:</string>
+
+    <string name="split">Split</string>
+    <string name="reset">Reset</string>
+
+</resources>
